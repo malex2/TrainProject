@@ -1,8 +1,8 @@
 close all
 clear
 
-M1 = 1;
-M2 = 0.5;
+M1 = 0;
+M2 = 0;
 k  = 4;
 %F  = 1;
 mu = 0.02;
